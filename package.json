@@ -1,6 +1,6 @@
 {
   "name": "generator-startup-react-app",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Generates a basic example react app with webpack 3 + react 16 + hot reload",
   "main": "index.js",
   "scripts": {
