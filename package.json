@@ -1,0 +1,42 @@
+{
+  "name": "generator-startup-react-app",
+  "version": "1.0.0",
+  "description": "Generates a basic example react app with webpack 3 + react 16 + hot reload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "startup-react-app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "react 16",
+    "webpack 3",
+    "ui-material",
+    "jest",
+    "hot-reload",
+    "unit-test",
+    "code coverage",
+    "babel",
+    "ecmascript 6"
+  ],
+  "license": "ISC",
+  "author": {
+    "name": "Jhonatan Villanueva",
+    "email": "jinvilaz@gmail.com"
+  },
+  "engines": {
+    "node": ">= 8.9.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jinvillaz/generator-startup-react-app.git"
+  },
+  "homepage": "https://github.com/jinvillaz/generator-startup-react-app",
+  "dependencies": {
+    "to-case": "^2.0.0",
+    "yeoman-generator": "^2.0.2",
+    "yosay": "^2.0.1"
+  }
+}
