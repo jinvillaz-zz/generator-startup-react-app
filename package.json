@@ -1,13 +1,13 @@
 {
   "name": "generator-startup-react-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generates a basic example react app with webpack 3 + react 16 + hot reload",
-  "main": "index.js",
+  "main": "app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
-    "startup-react-app"
+    "app"
   ],
   "keywords": [
     "yeoman-generator",
