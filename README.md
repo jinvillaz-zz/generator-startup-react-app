@@ -19,7 +19,7 @@ Out of the box it comes with support for:
 - Code coverage with jest 
 - Hot-reload
 
-## Changes since version 0.0.3
+## Changes since version 0.0.4
 This generator is written in ES2015. This means it is ___not compatible with node.js versions before 8.9.4___.
 
 
